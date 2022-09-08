@@ -3,3 +3,4 @@
 
 # ignore obj folder
 .obj
+.gitignore
