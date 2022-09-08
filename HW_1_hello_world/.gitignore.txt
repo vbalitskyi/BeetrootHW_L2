@@ -1,3 +1,2 @@
 # Ignore vs folder
 .vs
-.gitignore
